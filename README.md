@@ -9,10 +9,11 @@ Lean Six Sigma (LSS) is a method based on a stepwise approach to process improve
 (Define, Measure, Analyze, Improve and Control) for improving existing process problems with unknown causes.
 
 ### Youtube Video
-Understand the concept behind this solution in this short animated explainer video
+Find in the link below a short animated explained video to understand the concept behind this solution
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Voaq0l39LuE&t=8s"><img src="https://i.ytimg.com/an_webp/Voaq0l39LuE/mqdefault_6s.webp?du=3000&sqp=CJX5hJEG&rs=AOn4CLCmRzr39Fjn2QPHpVXcnuy66EkyyA" alt="Explainer Video Link"></a>
 </div>
+
 ### Medium Article
 In this [Medium Article](https://towardsdatascience.com/lean-six-sigma-data-analytics-with-python-kruskal-wallis-test-3afafa097ed), we will explore how Python can 
 replace Minitab (Software widely used by LSS experts) in the Analysis step to test hypotheses and 
