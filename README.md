@@ -15,7 +15,7 @@ Find in the link below a short animated explained video to understand the concep
 </div>
 
 ### Article
-In this [Article](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/), we will explore how Python can 
+In this [Article](https://towardsdatascience.com/lean-six-sigma-data-analytics-with-python-kruskal-wallis-test-3afafa097ed), we will explore how Python can 
 replace Minitab (Software widely used by LSS experts) in the Analysis step to test hypotheses and 
 understand what could improve the performance metrics of a specific process.
 
@@ -32,9 +32,9 @@ The training has a positive impact on the productivity of VAS operators.
 Randomly select operators and measure the time per batch (Time to finish a batch of 30 labels in seconds) to build a sample of 56 records.
 
 ## Code
-This repository code you will find all the code used to explain the concepts presented in the article.
+This repository code, you will find all the code used to explain the concepts presented in the article.
 
 ## About me 🤓
-Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
+Senior Supply Chain Engineer with international experience working on Logistics and Transportation operations. \
 Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
 Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
