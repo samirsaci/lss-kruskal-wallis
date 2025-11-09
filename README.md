@@ -15,7 +15,7 @@ Find in the link below a short animated explained video to understand the concep
 </div>
 
 ### Article
-In this [Article](https://towardsdatascience.com/lean-six-sigma-data-analytics-with-python-kruskal-wallis-test-3afafa097ed), we will explore how Python can 
+In this [Article](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/), we will explore how Python can 
 replace Minitab (Software widely used by LSS experts) in the Analysis step to test hypotheses and 
 understand what could improve the performance metrics of a specific process.
 
