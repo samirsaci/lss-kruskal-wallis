@@ -34,6 +34,28 @@ Randomly select operators and measure the time per batch (Time to finish a batch
 ## Code
 In this repository, you will find all the code used to explain the concepts presented in the article.
 
+### Files
+- `Kruskal Wallis Test.ipynb` - Jupyter notebook with step-by-step analysis
+- `kruskal_wallis_test.py` - Standalone Python script
+- `data/` - Folder containing input data (df_sewing.xlsx)
+
+### Getting Started
+```bash
+pip install -r requirements.txt
+python kruskal_wallis_test.py
+```
+
+### Dependencies
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
+- pingouin
+- bioinfokit
+- statsmodels
+- openpyxl
+
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
 For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/). \
