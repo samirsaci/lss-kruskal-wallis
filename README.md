@@ -56,8 +56,14 @@ python kruskal_wallis_test.py
 - statsmodels
 - openpyxl
 
-## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/). \
+## Go further
 
-Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
+- **The full write-up, with the reasoning behind the code:** [Lean Six Sigma with Python — Kruskal Wallis Test](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/?utm_source=github&utm_medium=readme&utm_campaign=lss-kruskal-wallis)
+- **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=lss-kruskal-wallis) has lessons on lean six sigma and the statistics quizzes, free and in the browser.
+- **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=lss-kruskal-wallis)
+
+## About me
+
+Samir Saci, supply chain engineer and data scientist with ten years in operations across Asia and Europe. Founder of [LogiGreen](https://www.logi-green.com/), creator of [Supply Science](https://www.youtube.com/@SupplyScience).
+For consulting on analytics and sustainable supply chain transformation: [LogiGreen](https://www.logi-green.com/). More about me: [samirsaci.com/about](https://www.samirsaci.com/about/) · [LinkedIn](https://www.linkedin.com/in/samir-saci/)
+
